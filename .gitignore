@@ -45,6 +45,9 @@ application-prod.yml
 # VS Code
 .vscode/
 
+# Claude Code
+.claude/
+
 # macOS & Windows
 .DS_Store
 Thumbs.db
